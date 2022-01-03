@@ -5,6 +5,10 @@ Created on Mon Jan  3 19:54:17 2022
 
 @author: Charlie
 
+@version: 1.0
+
+@date: 03/01/2022
+
 @description: Generates a visual of 56 randomly assigned colours within the M&M Colour Pallette
                 Done as first stoic challenge.
 """
